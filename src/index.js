@@ -7,7 +7,7 @@ import * as serviceWorker from 'register-service-worker';
 import { render } from 'react-dom/cjs/react-dom.development';
 
 
-  ReactDOM.render(<BlogPost />, document.getElementById('root'));
+  ReactDOM.render(<BlogPost />, document.getElementById('content'));
 
 
 
